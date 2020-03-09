@@ -375,8 +375,4 @@ Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 
 ----------------------------------------
 
-_**Maintainer**_
 
-Gopala KR / @gopala-kr
-
-----------------------------------------
